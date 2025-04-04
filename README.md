@@ -11,7 +11,7 @@ Built for creators who want to move fast and create freely — whether it’s ci
 - Automates video creation for TikTok, Reels, YouTube Shorts, and more  
 - No editing experience required  
 - Create in minutes using simple prompts  
-- Customise voice, pacing, visuals, and more  
+- Customize voice, pacing, visuals, and more  
 - Use AI models to recreate scenes, POVs, lyrics, or original ideas
 
 ## 🧪 Still in Beta
