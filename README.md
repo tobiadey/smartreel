@@ -19,7 +19,7 @@ Built for creators who want to move fast and create freely — whether it’s ci
 SmartReel is actively evolving. We're building fast, listening harder, and always looking for feedback.
 
 Want to test it out or give feedback?  
-📩 [tobi@smartreel.co](mailto:tobi@smartreel.co)  
+📩 [tobi@adeystudios.com](mailto:tobi@adeystudios.com)  
 📅 [Book a chat](https://calendly.com/adeystudios/30min)
 
 ## 🌐 Try it now
